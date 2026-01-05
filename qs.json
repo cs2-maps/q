@@ -1,1 +1,15 @@
 
+[
+  {
+    "id": "cs2-smoke-001",
+    "question": "Smoke grenade-ийн үндсэн хэрэглээ CS2-д юу вэ?",
+    "options": {
+      "A": "Damage өгөх",
+      "B": "Харагдах орчныг хаах",
+      "C": "Slow effect",
+      "D": "Flash effect"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy"
+  }
+]
