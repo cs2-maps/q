@@ -1,0 +1,1204 @@
+[
+  {
+    "id": "mix-001",
+    "question": "PGL Major Copenhagen 2024 тэмцээний аварга аль баг болсон бэ?",
+    "options": {
+      "A": "FaZe Clan",
+      "B": "Natus Vincere (NaVi)",
+      "C": "G2 Esports",
+      "D": "Team Vitality"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-002",
+    "question": "PGL Major Copenhagen 2024 тэмцээний MVP (HLTV) хэн байсан бэ?",
+    "options": {
+      "A": "s1mple",
+      "B": "m0NESY",
+      "C": "jL",
+      "D": "ZywOo"
+    },
+    "correct_answer": "C",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-003",
+    "question": "PGL Major Stockholm 2021 тэмцээний аварга аль баг болсон бэ?",
+    "options": {
+      "A": "Natus Vincere (NaVi)",
+      "B": "Astralis",
+      "C": "Fnatic",
+      "D": "ENCE"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-004",
+    "question": "PGL Major Stockholm 2021 тэмцээний MVP хэн байсан бэ?",
+    "options": {
+      "A": "NiKo",
+      "B": "s1mple",
+      "C": "device",
+      "D": "ropz"
+    },
+    "correct_answer": "B",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-005",
+    "question": "ESL One Cologne 2018 тэмцээний аварга аль баг болсон бэ?",
+    "options": {
+      "A": "Natus Vincere (NaVi)",
+      "B": "BIG",
+      "C": "Astralis",
+      "D": "FaZe Clan"
+    },
+    "correct_answer": "A",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-006",
+    "question": "Counter-Strike-ийн Major тэмцээний аваргын тоогоор (4 Major) хамгийн алдартай багийн нэг нь аль вэ?",
+    "options": {
+      "A": "Astralis",
+      "B": "Liquid",
+      "C": "Ninjas in Pyjamas (NiP)",
+      "D": "Cloud9"
+    },
+    "correct_answer": "A",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-007",
+    "question": "Чингис хааныг Их хаанаар өргөмжилсөн Их Хуралдай хэдэн онд болсон гэж үздэг вэ?",
+    "options": {
+      "A": "1206",
+      "B": "1260",
+      "C": "1911",
+      "D": "1990"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-008",
+    "question": "Наадмын “эрийн гурван наадам” гэж аль гурван төрлийг хэлдэг вэ?",
+    "options": {
+      "A": "Бөх, морин уралдаан, сур харваа",
+      "B": "Сагсан бөмбөг, волейбол, хөлбөмбөг",
+      "C": "Тэмээний уралдаан, цана, тэшүүр",
+      "D": "Шатар, даам, ширээний теннис"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-009",
+    "question": "Монголын уламжлалт босоо бичгийг монголоор нь ихэвчлэн юу гэж нэрлэдэг вэ?",
+    "options": {
+      "A": "Кирилл бичиг",
+      "B": "Латин үсэг",
+      "C": "Монгол бичиг",
+      "D": "Рун бичиг"
+    },
+    "correct_answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-010",
+    "question": "Монгол Улсын нийслэл хот аль вэ?",
+    "options": {
+      "A": "Дархан",
+      "B": "Эрдэнэт",
+      "C": "Улаанбаатар",
+      "D": "Чойбалсан"
+    },
+    "correct_answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-011",
+    "question": "Монгол Улс НҮБ-д хэдэн онд элссэн бэ?",
+    "options": {
+      "A": "1945",
+      "B": "1961",
+      "C": "1975",
+      "D": "1992"
+    },
+    "correct_answer": "B",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-012",
+    "question": "Монголын хамгийн гүн нуур аль вэ?",
+    "options": {
+      "A": "Увс нуур",
+      "B": "Хөвсгөл нуур",
+      "C": "Хар-Ус нуур",
+      "D": "Буйр нуур"
+    },
+    "correct_answer": "B",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-013",
+    "question": "2024 оны Оскарын (96 дахь) “Шилдэг кино” шагналыг аль кино авсан бэ?",
+    "options": {
+      "A": "Barbie",
+      "B": "Oppenheimer",
+      "C": "Poor Things",
+      "D": "Killers of the Flower Moon"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-014",
+    "question": "\"Titanic\" кино нийт хэдэн Оскар хүртсэн бэ?",
+    "options": {
+      "A": "7",
+      "B": "9",
+      "C": "11",
+      "D": "13"
+    },
+    "correct_answer": "C",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-015",
+    "question": "\"The Lord of the Rings: The Return of the King\" кино нийт хэдэн Оскар хүртсэн бэ?",
+    "options": {
+      "A": "8",
+      "B": "10",
+      "C": "11",
+      "D": "12"
+    },
+    "correct_answer": "C",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-016",
+    "question": "\"Spirited Away\" (2001) анимейшны найруулагч хэн бэ?",
+    "options": {
+      "A": "Makoto Shinkai",
+      "B": "Hayao Miyazaki",
+      "C": "Satoshi Kon",
+      "D": "Mamoru Hosoda"
+    },
+    "correct_answer": "B",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-017",
+    "question": "\"Darth Vader\" дүр аль кино ертөнцөд гардаг вэ?",
+    "options": {
+      "A": "Star Wars",
+      "B": "Harry Potter",
+      "C": "The Matrix",
+      "D": "The Lord of the Rings"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-018",
+    "question": "2025 оны Оскарын “Шилдэг кино”-гоор аль кино нэрлэгдсэн талаар мэдээлсэн бэ?",
+    "options": {
+      "A": "Anora",
+      "B": "Dune: Part Two",
+      "C": "Inside Out 2",
+      "D": "Deadpool & Wolverine"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "id": "mix-019",
+    "question": "Японы нийслэл хот аль вэ?",
+    "options": {
+      "A": "Осака",
+      "B": "Киото",
+      "C": "Токио",
+      "D": "Саппоро"
+    },
+    "correct_answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-020",
+    "question": "Нарны аймгийн хамгийн том гараг аль вэ?",
+    "options": {
+      "A": "Ангараг",
+      "B": "Сугар",
+      "C": "Бархасбадь",
+      "D": "Дэлхий"
+    },
+    "correct_answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-021",
+    "question": "Алтны химийн тэмдэглэгээ аль вэ?",
+    "options": {
+      "A": "Ag",
+      "B": "Au",
+      "C": "Fe",
+      "D": "Pb"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-022",
+    "question": "Газрын хамгийн хурдан амьтан (хуурай газарт) аль вэ?",
+    "options": {
+      "A": "Арслан",
+      "B": "Гепард",
+      "C": "Чоно",
+      "D": "Туулай"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-023",
+    "question": "Дэлхийн хамгийн том далай аль вэ?",
+    "options": {
+      "A": "Атлантын далай",
+      "B": "Номхон далай",
+      "C": "Энэтхэгийн далай",
+      "D": "Хойд мөсөн далай"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-024",
+    "question": "Монголын үндэсний мөнгөн тэмдэгтийг юу гэж нэрлэдэг вэ?",
+    "options": {
+      "A": "Төгрөг",
+      "B": "Юань",
+      "C": "Вон",
+      "D": "Рупи"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-025",
+    "question": "Вэбээр аюулгүй (шифрлэгдсэн) холболт хийхэд хамгийн түгээмэл ашиглагддаг протоколын эхлэл юу вэ?",
+    "options": {
+      "A": "HTTP",
+      "B": "FTP",
+      "C": "HTTPS",
+      "D": "SMTP"
+    },
+    "correct_answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-026",
+    "question": "Анхны iPhone хэдэн онд танилцуулагдсан бэ?",
+    "options": {
+      "A": "2005",
+      "B": "2007",
+      "C": "2009",
+      "D": "2011"
+    },
+    "correct_answer": "B",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-027",
+    "question": "Дэлхийн хамгийн өндөр уул аль вэ?",
+    "options": {
+      "A": "К2",
+      "B": "Килиманжаро",
+      "C": "Эверест",
+      "D": "Элбрус"
+    },
+    "correct_answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-028",
+    "question": "Цусыг биед шахаж тараадаг үндсэн эрхтэн аль вэ?",
+    "options": {
+      "A": "Уушги",
+      "B": "Элэг",
+      "C": "Зүрх",
+      "D": "Бөөр"
+    },
+    "correct_answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-029",
+    "question": "Бразил улсын албан ёсны хэл аль вэ?",
+    "options": {
+      "A": "Испани",
+      "B": "Португал",
+      "C": "Англи",
+      "D": "Франц"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-030",
+    "question": "Дэлхий дээр хэдэн тив байдаг гэж нийтлэгээр үздэг вэ?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct_answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-031",
+    "question": "IEM Katowice 2024 (CS2) тэмцээний аварга аль баг болсон бэ?",
+    "options": {
+      "A": "Team Spirit",
+      "B": "FaZe Clan",
+      "C": "G2 Esports",
+      "D": "Team Vitality"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-032",
+    "question": "BLAST Premier: World Final 2023 (CS2) тэмцээний аварга аль баг болсон бэ?",
+    "options": {
+      "A": "FaZe Clan",
+      "B": "Team Vitality",
+      "C": "Natus Vincere (NaVi)",
+      "D": "MOUZ"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-033",
+    "question": "HLTV-ийн “Top 20 players of 2023” жагсаалтын №1 тоглогч хэн байсан бэ?",
+    "options": {
+      "A": "NiKo",
+      "B": "ropz",
+      "C": "m0NESY",
+      "D": "ZywOo"
+    },
+    "correct_answer": "D",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-034",
+    "question": "IEM Katowice 2024 тэмцээний нийт шагналын сан хэд байсан бэ?",
+    "options": {
+      "A": "$250,000",
+      "B": "$500,000",
+      "C": "$1,000,000",
+      "D": "$2,000,000"
+    },
+    "correct_answer": "C",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-035",
+    "question": "BLAST Premier: World Final 2023 тэмцээний Grand Final-д Vitality аль багийг хожсон бэ?",
+    "options": {
+      "A": "FaZe Clan",
+      "B": "G2 Esports",
+      "C": "Natus Vincere (NaVi)",
+      "D": "Astralis"
+    },
+    "correct_answer": "A",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-036",
+    "question": "HLTV-ийн 2023 оны Top 20 жагсаалтад ZywOo аль багийн нэр дээр бичигдсэн бэ?",
+    "options": {
+      "A": "G2 Esports",
+      "B": "FaZe Clan",
+      "C": "Team Vitality",
+      "D": "Team Spirit"
+    },
+    "correct_answer": "C",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-037",
+    "question": "Монгол Улсын тусгаар тогтнолоо сэргээн тунхагласан 1911 оны үйл явдал ямар нэртэйгээр нийтлэг яригддаг вэ?",
+    "options": {
+      "A": "Ардын хувьсгал",
+      "B": "Үндэсний эрх чөлөөний хувьсгал",
+      "C": "Соёлын хувьсгал",
+      "D": "Ардчилсан хувьсгал"
+    },
+    "correct_answer": "B",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-038",
+    "question": "Монгол Ардын хувьсгал хэдэн онд болсон бэ?",
+    "options": {
+      "A": "1911",
+      "B": "1921",
+      "C": "1939",
+      "D": "1990"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-039",
+    "question": "Монгол Улсын анхны Үндсэн хууль (БНМАУ-ын) хэдэн онд батлагдсан бэ?",
+    "options": {
+      "A": "1911",
+      "B": "1924",
+      "C": "1940",
+      "D": "1992"
+    },
+    "correct_answer": "B",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-040",
+    "question": "Монгол гэрийн унь, тооно, керегийг нийтэд нь юу гэж нэрлэх нь түгээмэл вэ?",
+    "options": {
+      "A": "Гэрийн мод",
+      "B": "Гэрийн дээл",
+      "C": "Гэрийн буурь",
+      "D": "Гэрийн чимэг"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-041",
+    "question": "Монголын уламжлалт “хоолой, цээжний хосолсон дуугаралт”-ыг юу гэж нэрлэдэг вэ?",
+    "options": {
+      "A": "Уртын дуу",
+      "B": "Хөөмий",
+      "C": "Богино дуу",
+      "D": "Цуур"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-042",
+    "question": "Монгол Улсын хамгийн өндөр оргил аль вэ?",
+    "options": {
+      "A": "Отгонтэнгэр",
+      "B": "Алтай таван богдын Хүйтэн оргил",
+      "C": "Бурхан Халдун",
+      "D": "Сутай хайрхан"
+    },
+    "correct_answer": "B",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-043",
+    "question": "97 дахь Оскарын (2025) “Шилдэг кино” шагналыг аль кино авсан бэ?",
+    "options": {
+      "A": "Anora",
+      "B": "Oppenheimer",
+      "C": "Dune: Part Two",
+      "D": "Poor Things"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-044",
+    "question": "97 дахь Оскарын (2025) ёслолыг хэн хөтөлсөн бэ?",
+    "options": {
+      "A": "Jimmy Kimmel",
+      "B": "Conan O'Brien",
+      "C": "Chris Rock",
+      "D": "Ricky Gervais"
+    },
+    "correct_answer": "B",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-045",
+    "question": "97 дахь Оскарын (2025) “Шилдэг эрэгтэй гол дүр”-ийн шагналыг аль жүжигчин авсан бэ?",
+    "options": {
+      "A": "Adrien Brody",
+      "B": "Leonardo DiCaprio",
+      "C": "Brad Pitt",
+      "D": "Joaquin Phoenix"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "id": "mix-046",
+    "question": "\"The Dark Knight\" кинонд Joker-ийн дүрийг хэн бүтээсэн бэ?",
+    "options": {
+      "A": "Joaquin Phoenix",
+      "B": "Heath Ledger",
+      "C": "Jared Leto",
+      "D": "Jack Nicholson"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-047",
+    "question": "\"Inception\" киноны найруулагч хэн бэ?",
+    "options": {
+      "A": "Christopher Nolan",
+      "B": "Denis Villeneuve",
+      "C": "James Cameron",
+      "D": "Steven Spielberg"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-048",
+    "question": "Дэлхийн хоёрдугаар дайн хэдэн онд эхэлсэн бэ?",
+    "options": {
+      "A": "1914",
+      "B": "1939",
+      "C": "1945",
+      "D": "1950"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-049",
+    "question": "Дэлхийн хамгийн их хүн амтай улс аль вэ? (2024 оноос хойшхи нийтлэг үнэлгээгээр)",
+    "options": {
+      "A": "АНУ",
+      "B": "БНХАУ",
+      "C": "Энэтхэг",
+      "D": "Индонез"
+    },
+    "correct_answer": "C",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-050",
+    "question": "DNA гэж юуны товчлол вэ?",
+    "options": {
+      "A": "Deoxyribonucleic Acid",
+      "B": "Dynamic Network Access",
+      "C": "Digital Number Array",
+      "D": "Data Node Allocation"
+    },
+    "correct_answer": "A",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-051",
+    "question": "Дэлхийн хамгийн урт мөрөн аль вэ?",
+    "options": {
+      "A": "Амазон мөрөн",
+      "B": "Нил мөрөн",
+      "C": "Янцзы мөрөн",
+      "D": "Миссисипи мөрөн"
+    },
+    "correct_answer": "B",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-052",
+    "question": "Хүний биед хамгийн том эрхтэн аль вэ?",
+    "options": {
+      "A": "Элэг",
+      "B": "Арьс",
+      "C": "Зүрх",
+      "D": "Уушги"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-053",
+    "question": "Нэг гигабайт (GB) нь ойролцоогоор хэдэн мегабайт (MB) гэж тооцогдох нь түгээмэл вэ? (компьютерийн хоёртын хэмжүүрээр)",
+    "options": {
+      "A": "1000 MB",
+      "B": "1024 MB",
+      "C": "512 MB",
+      "D": "2048 MB"
+    },
+    "correct_answer": "B",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-054",
+    "question": "“WWW” гэдэг нь юуны товчлол вэ?",
+    "options": {
+      "A": "World Wide Web",
+      "B": "Wireless Wide World",
+      "C": "Web Window Works",
+      "D": "World Web Wire"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-055",
+    "question": "Хүчилтөрөгчийн химийн тэмдэглэгээ аль вэ?",
+    "options": {
+      "A": "O",
+      "B": "Ox",
+      "C": "O2",
+      "D": "OC"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-056",
+    "question": "Кофенд агуулагддаг, сэргээх нөлөөтэй бодисыг юу гэж нэрлэдэг вэ?",
+    "options": {
+      "A": "Кальци",
+      "B": "Кофеин",
+      "C": "Креатин",
+      "D": "Кератин"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-057",
+    "question": "Нарны аймгийн хамгийн ойрын гараг аль вэ?",
+    "options": {
+      "A": "Буд",
+      "B": "Сугар",
+      "C": "Дэлхий",
+      "D": "Ангараг"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-058",
+    "question": "Европын Холбоо (EU)-ны институциуд байрладаг хотын нэг болох Брюссель аль улсад байдаг вэ?",
+    "options": {
+      "A": "Нидерланд",
+      "B": "Белги",
+      "C": "Франц",
+      "D": "Герман"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-059",
+    "question": "Химийн үелэх системийг боловсруулж нэрд гарсан эрдэмтэн хэн бэ?",
+    "options": {
+      "A": "Исаак Ньютон",
+      "B": "Дмитрий Менделеев",
+      "C": "Альберт Эйнштейн",
+      "D": "Никола Тесла"
+    },
+    "correct_answer": "B",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-060",
+    "question": "Хүн төрөлхтний түүхэнд анхны хиймэл дагуул “Sputnik 1” хэдэн онд сансарт хөөрсөн бэ?",
+    "options": {
+      "A": "1957",
+      "B": "1961",
+      "C": "1969",
+      "D": "1975"
+    },
+    "correct_answer": "A",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-061",
+    "question": "PGL Major Copenhagen 2024 тэмцээний нийт шагналын сан хэд байсан бэ?",
+    "options": {
+      "A": "$500,000",
+      "B": "$1,000,000",
+      "C": "$1,250,000",
+      "D": "$2,000,000"
+    },
+    "correct_answer": "C",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-062",
+    "question": "PGL Major Copenhagen 2024 тэмцээний плей-оффын үндсэн талбай (venue) аль нь байсан бэ?",
+    "options": {
+      "A": "Royal Arena",
+      "B": "Spodek Arena",
+      "C": "Lanxess Arena",
+      "D": "Madison Square Garden"
+    },
+    "correct_answer": "A",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-063",
+    "question": "PGL Major Copenhagen 2024 тэмцээний финалд NaVi аль багийг хожиж аварга болсон бэ?",
+    "options": {
+      "A": "G2 Esports",
+      "B": "Team Vitality",
+      "C": "FaZe Clan",
+      "D": "MOUZ"
+    },
+    "correct_answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-064",
+    "question": "IEM Katowice 2024 тэмцээний аварга аль баг болсон бэ?",
+    "options": {
+      "A": "Team Spirit",
+      "B": "FaZe Clan",
+      "C": "G2 Esports",
+      "D": "Team Vitality"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-065",
+    "question": "IEM Katowice 2024 тэмцээний MVP (HLTV) хэн байсан бэ?",
+    "options": {
+      "A": "ZywOo",
+      "B": "donk",
+      "C": "NiKo",
+      "D": "m0NESY"
+    },
+    "correct_answer": "B",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-066",
+    "question": "BLAST Premier: World Final 2023 тэмцээний финалд Team Vitality аль багийг хожсон бэ?",
+    "options": {
+      "A": "FaZe Clan",
+      "B": "Natus Vincere (NaVi)",
+      "C": "G2 Esports",
+      "D": "Astralis"
+    },
+    "correct_answer": "A",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-067",
+    "question": "ESL Pro League Season 20 (2024) тэмцээний аварга аль баг болсон бэ?",
+    "options": {
+      "A": "Eternal Fire",
+      "B": "Natus Vincere (NaVi)",
+      "C": "Team Vitality",
+      "D": "FaZe Clan"
+    },
+    "correct_answer": "B",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-068",
+    "question": "PGL Major Copenhagen 2024 тэмцээний MVP (HLTV) хэн байсан бэ?",
+    "options": {
+      "A": "jL",
+      "B": "s1mple",
+      "C": "ZywOo",
+      "D": "device"
+    },
+    "correct_answer": "A",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-069",
+    "question": "Монгол Улсын өнөөгийн хүчин төгөлдөр Үндсэн хууль хэдэн онд батлагдсан бэ?",
+    "options": {
+      "A": "1924",
+      "B": "1940",
+      "C": "1960",
+      "D": "1992"
+    },
+    "correct_answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-070",
+    "question": "Улаанбаатар хотын хуучин нэрийн нэг болох “Их Хүрээ” гэдэг нь аль хотыг хэлдэг вэ?",
+    "options": {
+      "A": "Дархан",
+      "B": "Эрдэнэт",
+      "C": "Улаанбаатар",
+      "D": "Хархорум"
+    },
+    "correct_answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-071",
+    "question": "Монголын уламжлалт хоёр чавхдаст, морин толгойтой хөгжмийн зэмсгийг юу гэдэг вэ?",
+    "options": {
+      "A": "Ёочин",
+      "B": "Морин хуур",
+      "C": "Лимбэ",
+      "D": "Цуур"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-072",
+    "question": "“Соёмбо” бэлгэдэл Монгол Улсын аль зүйл дээр тод харагддаг вэ?",
+    "options": {
+      "A": "Төрийн далбаан дээр",
+      "B": "Зөвхөн мөнгөн тэмдэгт дээр",
+      "C": "Зөвхөн паспорт дээр",
+      "D": "Зөвхөн шуудангийн марк дээр"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-073",
+    "question": "Цагаан сар нь монголчуудын ямар баяр вэ?",
+    "options": {
+      "A": "Ургацын баяр",
+      "B": "Билгийн тооллын шинэ жил",
+      "C": "Тусгаар тогтнолын баяр",
+      "D": "Ялалтын баяр"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-074",
+    "question": "Монголчуудын уламжлалт сүү цагаан идээний нэг болох “ааруул” юунаас хийдэг вэ?",
+    "options": {
+      "A": "Махнаас",
+      "B": "Тараг/айргийг ээдүүлж хатааснаас",
+      "C": "Гурилаас",
+      "D": "Ногооноос"
+    },
+    "correct_answer": "B",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-075",
+    "question": "Наадмын үеэр барилддаг уламжлалт бөхийн төрлийг юу гэж нэрлэдэг вэ?",
+    "options": {
+      "A": "Жүдо",
+      "B": "Чөлөөт бөх",
+      "C": "Монгол бөх",
+      "D": "Сүмо"
+    },
+    "correct_answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-076",
+    "question": "Монголын уламжлалт уртын дууг хамгийн зөвөөр аль нь тайлбарлах вэ?",
+    "options": {
+      "A": "Хурдан хэмнэлтэй, богино мөртэй дуу",
+      "B": "Удаан хэмнэлтэй, сунжруулж аялдаг дуу",
+      "C": "Зөвхөн хөгжмийн зэмсгээр тоглодог аялгуу",
+      "D": "Зөвхөн бүжгийн хөгжим"
+    },
+    "correct_answer": "B",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-077",
+    "question": "96 дахь Оскарын (2024) “Шилдэг кино” шагналыг аль кино авсан бэ?",
+    "options": {
+      "A": "Oppenheimer",
+      "B": "Barbie",
+      "C": "Poor Things",
+      "D": "Killers of the Flower Moon"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-078",
+    "question": "96 дахь Оскарын (2024) “Шилдэг найруулагч” шагналыг хэн авсан бэ?",
+    "options": {
+      "A": "Martin Scorsese",
+      "B": "Christopher Nolan",
+      "C": "Greta Gerwig",
+      "D": "Yorgos Lanthimos"
+    },
+    "correct_answer": "B",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-079",
+    "question": "96 дахь Оскарын (2024) “Шилдэг эрэгтэй гол дүр” шагналыг хэн авсан бэ?",
+    "options": {
+      "A": "Cillian Murphy",
+      "B": "Bradley Cooper",
+      "C": "Paul Giamatti",
+      "D": "Leonardo DiCaprio"
+    },
+    "correct_answer": "A",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-080",
+    "question": "96 дахь Оскарын (2024) “Шилдэг эмэгтэй гол дүр” шагналыг хэн авсан бэ?",
+    "options": {
+      "A": "Lily Gladstone",
+      "B": "Emma Stone",
+      "C": "Carey Mulligan",
+      "D": "Sandra Hüller"
+    },
+    "correct_answer": "B",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-081",
+    "question": "97 дахь Оскарын (2025) “Шилдэг кино” шагналыг аль кино авсан бэ?",
+    "options": {
+      "A": "Anora",
+      "B": "Dune: Part Two",
+      "C": "Oppenheimer",
+      "D": "Poor Things"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-082",
+    "question": "97 дахь Оскарын (2025) ёслолыг хэн хөтөлсөн бэ?",
+    "options": {
+      "A": "Jimmy Kimmel",
+      "B": "Conan O'Brien",
+      "C": "Seth Meyers",
+      "D": "John Mulaney"
+    },
+    "correct_answer": "B",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-083",
+    "question": "97 дахь Оскарын (2025) “Шилдэг эрэгтэй гол дүр” шагналыг хэн авсан бэ?",
+    "options": {
+      "A": "Adrien Brody",
+      "B": "Timothée Chalamet",
+      "C": "Ralph Fiennes",
+      "D": "Colman Domingo"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "id": "mix-084",
+    "question": "“The Godfather” кинонд Corleone гэр бүлийн тэргүүний дүрийг хэн бүтээсэн бэ?",
+    "options": {
+      "A": "Al Pacino",
+      "B": "Marlon Brando",
+      "C": "Robert De Niro",
+      "D": "Jack Nicholson"
+    },
+    "correct_answer": "B",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-085",
+    "question": "“The Matrix” кинонд “Neo” дүрийг хэн бүтээсэн бэ?",
+    "options": {
+      "A": "Keanu Reeves",
+      "B": "Tom Cruise",
+      "C": "Matt Damon",
+      "D": "Christian Bale"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-086",
+    "question": "Дэлхий дээрх хамгийн их тархалттай байгалийн хий аль нь вэ?",
+    "options": {
+      "A": "Хүчилтөрөгч",
+      "B": "Азот",
+      "C": "Нүүрсхүчлийн хий",
+      "D": "Устөрөгч"
+    },
+    "correct_answer": "B",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-087",
+    "question": "Дэлхийн хамгийн олон хүн амтай тив аль вэ?",
+    "options": {
+      "A": "Европ",
+      "B": "Африк",
+      "C": "Ази",
+      "D": "Өмнөд Америк"
+    },
+    "correct_answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-088",
+    "question": "Интернэт домэйн нэрийн системийг юу гэж товчилдог вэ?",
+    "options": {
+      "A": "DNS",
+      "B": "GPU",
+      "C": "RAM",
+      "D": "VPN"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-089",
+    "question": "“CPU” гэдэг нь юуны товчлол вэ?",
+    "options": {
+      "A": "Central Processing Unit",
+      "B": "Computer Power Utility",
+      "C": "Core Program Upload",
+      "D": "Central Print Unit"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-090",
+    "question": "Bitcoin-ийг танилцуулсан “Satoshi Nakamoto” нэр нь ихэвчлэн юу гэж үзэгддэг вэ?",
+    "options": {
+      "A": "Нэг хүний жинхэнэ нэр",
+      "B": "Нууц нэр (pseudonym)",
+      "C": "Компанийн албан ёсны нэр",
+      "D": "Улсын байгууллагын нэр"
+    },
+    "correct_answer": "B",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-091",
+    "question": "YouTube анх хэдэн онд үүсгэн байгуулагдсан бэ?",
+    "options": {
+      "A": "2003",
+      "B": "2005",
+      "C": "2007",
+      "D": "2010"
+    },
+    "correct_answer": "B",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-092",
+    "question": "“Wi-Fi” нь хамгийн ойролцоогоор ямар төрлийн сүлжээ вэ?",
+    "options": {
+      "A": "Утасгүй дотоод сүлжээ (wireless LAN)",
+      "B": "Хиймэл дагуулын холбоо",
+      "C": "Утасгүй цахилгаан дамжуулалт",
+      "D": "Зөвхөн кабелийн сүлжээ"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-093",
+    "question": "Хүний биед хүчилтөрөгч зөөвөрлөдөг цусны эс аль вэ?",
+    "options": {
+      "A": "Цагаан эс",
+      "B": "Улаан эс",
+      "C": "Цусны ялтас",
+      "D": "Плазм"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-094",
+    "question": "Цельсийн хэмжүүрээр 0°C нь усны ямар төлөвт шилжилттэй холбоотой вэ?",
+    "options": {
+      "A": "Буцлах",
+      "B": "Хайлах/хөлдөх зааг (0°C орчим)",
+      "C": "Уурших",
+      "D": "Шингэнээс хийн төлөвт шууд шилжих"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-095",
+    "question": "Дэлхийн хамгийн том цөл (талбайгаар) аль нь вэ?",
+    "options": {
+      "A": "Сахар",
+      "B": "Говь",
+      "C": "Антарктидын цөл",
+      "D": "Атакама"
+    },
+    "correct_answer": "C",
+    "difficulty": "normal"
+  },
+  {
+    "id": "mix-096",
+    "question": "“HTML” нь юуны товчлол вэ?",
+    "options": {
+      "A": "HyperText Markup Language",
+      "B": "High Transfer Machine Link",
+      "C": "Hyper Tool Multi Language",
+      "D": "Host Text Map Layer"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-097",
+    "question": "“RAM” нь компьютерт ямар зориулалттай вэ?",
+    "options": {
+      "A": "Удаан хугацааны хадгалалт (permanent storage)",
+      "B": "Түр санах ой (temporary memory)",
+      "C": "Сүлжээний карт",
+      "D": "Дэлгэцийн нягтрал"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-098",
+    "question": "Дэлхий Нарны эргэн тойронд нэг бүтэн тойрох хугацаа ойролцоогоор хэд вэ?",
+    "options": {
+      "A": "24 цаг",
+      "B": "30 хоног",
+      "C": "365 хоног",
+      "D": "10 жил"
+    },
+    "correct_answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-099",
+    "question": "Франц улсын нийслэл хот аль вэ?",
+    "options": {
+      "A": "Марсель",
+      "B": "Лион",
+      "C": "Парис",
+      "D": "Ницца"
+    },
+    "correct_answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mix-100",
+    "question": "Нийтлэг хэрэглээнд “AI” гэж юуг товчилдог вэ?",
+    "options": {
+      "A": "Auto Interface",
+      "B": "Artificial Intelligence (хиймэл оюун)",
+      "C": "Advanced Internet",
+      "D": "Audio Input"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy"
+  }
+]
+
+
