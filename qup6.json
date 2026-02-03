@@ -42599,5 +42599,3688 @@
         },
         "correct_answer": "A",
         "difficulty": "medium"
+    },
+    {
+        "id": "e3551",
+        "emojis": "🕷️🕸️🗽",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "spider-man",
+            "spiderman",
+            "peter parker"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3552",
+        "emojis": "🛡️🇺🇸⭐",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "captain america",
+            "captain america",
+            "steve rogers"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3553",
+        "emojis": "🔨⚡️🦸‍♂️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "thor",
+            "god of thunder",
+            "thor odinson"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3554",
+        "emojis": "🐾👑🖤",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "black panther",
+            "t'challa",
+            "wakanda"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3555",
+        "emojis": "🪐🌳🔫",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "guardians of the galaxy",
+            "gotg",
+            "starlord",
+            "groot"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3556",
+        "emojis": "💚🧪😡",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "hulk",
+            "bruce banner",
+            "the hulk"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3557",
+        "emojis": "🧙‍♂️🕰️✨",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "doctor strange",
+            "dr strange",
+            "stephen strange"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3558",
+        "emojis": "🕷️👩‍🦰🇷🇺",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "black widow",
+            "natasha romanoff",
+            "natasha romanov"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3559",
+        "emojis": "🔴✨🪄",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "scarlet witch",
+            "wanda maximoff",
+            "wanda"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3560",
+        "emojis": "🦇🌃🚘",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "batman",
+            "dark knight",
+            "bruce wayne"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3561",
+        "emojis": "🦸‍♂️☄️🟥",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "superman",
+            "man of steel",
+            "clark kent"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3562",
+        "emojis": "👸⚔️🎗️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "wonder woman",
+            "diana prince"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3563",
+        "emojis": "🤡💜❓",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "joker",
+            "the joker"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3564",
+        "emojis": "🔱🐟🌊",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "aquaman",
+            "arthur curry"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3565",
+        "emojis": "🦁👑🌅",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "the lion king",
+            "lion king"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3566",
+        "emojis": "❄️👸☃️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "frozen",
+            "elsa",
+            "anna",
+            "olaf"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3567",
+        "emojis": "🤠👨‍🚀🧸",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "toy story",
+            "woody",
+            "buzz lightyear"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3568",
+        "emojis": "🧞‍♂️✨🕌",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "aladdin",
+            "genie"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3569",
+        "emojis": "🌊🌺🛶",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "moana",
+            "vaiana"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3570",
+        "emojis": "👠🐭👑",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "cinderella",
+            "cinderella"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3571",
+        "emojis": "🐉🗡️🌸",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "mulan"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3572",
+        "emojis": "🐷🚂👧",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "spirited away",
+            "sen to chihiro no kamikakushi"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3573",
+        "emojis": "🧑‍🤝‍🧑🌠🌌",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "your name",
+            "kimi no na wa"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3574",
+        "emojis": "⚔️💪🧱",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "attack on titan",
+            "aot",
+            "shingeki no kyojin"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3575",
+        "emojis": "🍥🍜🦊",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "naruto",
+            "naruto uzumaki"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3576",
+        "emojis": "🏴‍☠️⚓️👒",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "one piece",
+            "luffy"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3577",
+        "emojis": "🎮🔫💣",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "cs2",
+            "counter-strike",
+            "csgo",
+            "counter strike"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3578",
+        "emojis": "⛏️🌳💎",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "minecraft",
+            "mine craft"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3579",
+        "emojis": "🧙‍♂️🏛️🐉",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "dota 2",
+            "dota"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3580",
+        "emojis": "🏆🗺️🛡️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "league of legends",
+            "lol",
+            "summoners rift"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3581",
+        "emojis": "🔪💣🏜️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "dust2",
+            "cs2 map",
+            "counter strike map"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3582",
+        "emojis": "🟩💥⛏️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "creeper",
+            "minecraft creeper"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3583",
+        "emojis": "🕹️🍄⭐️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "mario",
+            "super mario"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3584",
+        "emojis": "🧚‍♂️⚔️🏰",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "zelda",
+            "legend of zelda"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3585",
+        "emojis": "🔴🔵⚡️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "pokemon",
+            "pokemons"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3586",
+        "emojis": "🔫⛏️🕺",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "fortnite",
+            "fort nite"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3587",
+        "emojis": "🔮🌳🛡️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "dota 2",
+            "dota"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3588",
+        "emojis": "⚔️🗺️🐉",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "league of legends",
+            "lol",
+            "summoners rift"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "id": "e3589",
+        "emojis": "📦🔫🎯",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "awp",
+            "cs2 awp",
+            "awp sniper",
+            "counter strike awp"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3590",
+        "emojis": "⛏️🪓🌳",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "minecraft",
+            "crafting"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3591",
+        "emojis": "🛡️⚔️👑",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "league of legends",
+            "lol",
+            "moba"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3592",
+        "emojis": "🎤🎸👱‍♀️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "taylor swift"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3593",
+        "emojis": "🎬🚢🧊",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "leonardo dicaprio",
+            "leo dicaprio"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3594",
+        "emojis": "🎮🇸🇪👑",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "pewdiepie",
+            "felix kjellberg"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3595",
+        "emojis": "💰🎁🎥",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "mrbeast",
+            "jimmy donaldson"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3596",
+        "emojis": "🎤🎶🇬🇧",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "adele"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3597",
+        "emojis": "👨‍🎤⚡️🕺",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "michael jackson",
+            "mj"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3598",
+        "emojis": "📚🧙‍♂️⚡️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "daniel radcliffe",
+            "harry potter actor"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "id": "e3599",
+        "emojis": "👩‍🎤🎤🎧",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "billie eilish"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3600",
+        "emojis": "🥊💵⭐️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "conor mcgregor",
+            "mcgregor"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "id": "e3601",
+        "emojis": "👑🎤🕺",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "bts",
+            "bangtan boys",
+            "kpop"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3602",
+        "emojis": "🗽🍎🚕",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "new york",
+            "nyc",
+            "new york city"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3603",
+        "emojis": "🗼🥖🇫🇷",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "paris",
+            "france"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3604",
+        "emojis": "🏯🌸🇯🇵",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "tokyo",
+            "japan"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3605",
+        "emojis": "🏛️🍕🇮🇹",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "rome",
+            "italy"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3606",
+        "emojis": "🐪🔺🇪🇬",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "egypt",
+            "cairo"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3607",
+        "emojis": "🇦🇺🦘🐨",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "australia",
+            "aussie"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3608",
+        "emojis": "🇧🇷⚽️💃",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "brazil",
+            "rio"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3609",
+        "emojis": "🇨🇳🐼🧱",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "china",
+            "great wall",
+            "beijing"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3610",
+        "emojis": "🇬🇧💂‍♀️👑",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "london",
+            "united kingdom",
+            "uk"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3611",
+        "emojis": "🕌🏙️🐪",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "dubai",
+            "uae"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3612",
+        "emojis": "🏞️🐎🇲🇳",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "mongolia",
+            "ulaanbaatar",
+            "ub"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3613",
+        "emojis": "🇮🇳🐅🍛",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "india",
+            "delhi",
+            "mumbai"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3614",
+        "emojis": "🍕🧀🍅",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "pizza",
+            "pizzas"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3615",
+        "emojis": "🍔🍟🥤",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "burger",
+            "hamburger",
+            "burgers"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3616",
+        "emojis": "🍣🍚🥢",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "sushi",
+            "sushi roll"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3617",
+        "emojis": "☕️🥛🍪",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "coffee",
+            "latte",
+            "cappuccino"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3618",
+        "emojis": "🍦🍓🍫",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "ice cream",
+            "icecream"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3619",
+        "emojis": "🍜🥢🍥",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "ramen",
+            "noodle soup"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3620",
+        "emojis": "🌮🌶️🇲🇽",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "taco",
+            "tacos",
+            "mexican food"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3621",
+        "emojis": "🍷🍇🧀",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "wine",
+            "red wine",
+            "white wine"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3622",
+        "emojis": "🍺🥨🇩🇪",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "beer",
+            "german beer",
+            "oktoberfest"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3623",
+        "emojis": "🍫🌰🍬",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "chocolate",
+            "candy",
+            "sweet"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3624",
+        "emojis": "🏀🟣🟡",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "lakers",
+            "la lakers",
+            "los angeles lakers"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3625",
+        "emojis": "⚽️🐐🇦🇷",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "messi",
+            "lionel messi"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3626",
+        "emojis": "🏈🏟️🏆",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "nfl",
+            "american football",
+            "super bowl"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3627",
+        "emojis": "🎾🍃🏆",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "wimbledon",
+            "tennis"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3628",
+        "emojis": "🥊💥👊",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "boxing",
+            "ufc",
+            "mixed martial arts"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3629",
+        "emojis": "🏃‍♂️🥇🏅",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "olympics",
+            "olympic games"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3630",
+        "emojis": "⚽️👑🇪🇸",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "real madrid",
+            "madrid"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3631",
+        "emojis": "🏒🥅🇨🇦",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "ice hockey",
+            "hockey",
+            "nhl"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3632",
+        "emojis": "⛳️🏌️‍♂️🌳",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "golf",
+            "golfing"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3633",
+        "emojis": "⛹️‍♂️🏀🏆",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "basketball",
+            "nba"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3634",
+        "emojis": "☕️🛋️👯‍♀️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "friends",
+            "friends tv show"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3635",
+        "emojis": "🐉👑⚔️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "game of thrones",
+            "got"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3636",
+        "emojis": "🚲🔦👾",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "stranger things"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3637",
+        "emojis": "🦑🔺🟩",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "squid game",
+            "squidgame"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3638",
+        "emojis": "👨‍💻📄🖊️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "the office",
+            "office"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3639",
+        "emojis": "🧪👨‍🍳🔵",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "breaking bad"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3640",
+        "emojis": "🖤🕸️🎻",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "wednesday",
+            "wednesday addams"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3641",
+        "emojis": "🧑‍🚀👶👽",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "the mandalorian",
+            "mandalorian",
+            "grogu"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3642",
+        "emojis": "🏡👩‍👦‍👦🛋️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "modern family"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3643",
+        "emojis": "🧟‍♂️🚶‍♀️➡️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "the walking dead",
+            "walking dead"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3644",
+        "emojis": "👑🎤🎸",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "queen",
+            "the band queen"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3645",
+        "emojis": "🎶💃🕺",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "michael jackson",
+            "mj",
+            "thriller"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3646",
+        "emojis": "💜🎤🇰🇷",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "bts",
+            "bangtan boys"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3647",
+        "emojis": "🎸👱‍♂️🎤",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "ed sheeran"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3648",
+        "emojis": "📻🎤🚗",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "bohemian rhapsody",
+            "queen song"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3649",
+        "emojis": "📞👋🎼",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "hello",
+            "adele hello"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3650",
+        "emojis": "🔫🔫🌹",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "guns n roses",
+            "guns and roses",
+            "gnr"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "id": "e3651",
+        "emojis": "🤖❤️💛",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "iron man",
+            "ironman",
+            "tony stark"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3652",
+        "emojis": "🦸‍♂️💥🌎",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "avengers",
+            "the avengers"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3653",
+        "emojis": "⚫️🐾👑",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "black panther",
+            "wakanda"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3654",
+        "emojis": "🚀🌳🦝",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "guardians of the galaxy",
+            "gotg"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3655",
+        "emojis": "⚡️🔨👑",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "thor",
+            "asgard"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3656",
+        "emojis": "🇺🇸🛡️🌟",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "captain america",
+            "captain america first avenger",
+            "steve rogers"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3657",
+        "emojis": "🧙‍♂️🌀👁️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "doctor strange",
+            "dr strange"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3658",
+        "emojis": "🕷️🏡✖️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "spider-man no way home",
+            "spiderman no way home",
+            "no way home"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3659",
+        "emojis": "🐜👨‍",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "ant-man",
+            "ant man"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3660",
+        "emojis": "💚💪😠",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "hulk",
+            "the hulk",
+            "bruce banner"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3661",
+        "emojis": "🦇🌃💰",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "batman",
+            "the batman",
+            "dark knight"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3662",
+        "emojis": "🦸‍♂️🌎🟥",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "superman",
+            "man of steel",
+            "clark kent"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3663",
+        "emojis": "👸🛡️🔗",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "wonder woman"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3664",
+        "emojis": "🃏🤡😂",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "joker",
+            "the joker"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3665",
+        "emojis": "🔱🐠🌊",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "aquaman"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3666",
+        "emojis": "❄️👸☃️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "frozen",
+            "frozen 2"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3667",
+        "emojis": "🦁👑🌿",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "lion king",
+            "the lion king"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3668",
+        "emojis": "🤠🚀🧸",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "toy story",
+            "toy story 2",
+            "toy story 3",
+            "toy story 4"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3669",
+        "emojis": "🌊🌺🛶",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "moana",
+            "vaiana"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3670",
+        "emojis": "🌸⚔️🐉",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "mulan"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3671",
+        "emojis": "🧞‍♂️💡🕌",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "aladdin"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3672",
+        "emojis": "🌹👸👹",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "beauty and the beast",
+            "beauty & the beast"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3673",
+        "emojis": "🐠🔍🌊",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "finding nemo",
+            "finding dory"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3674",
+        "emojis": "🎈🏠👴",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "up",
+            "disney up"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3675",
+        "emojis": "🦋🏠🎶",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "encanto"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3676",
+        "emojis": "👻🧖‍♀️👧",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "spirited away"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3677",
+        "emojis": "☄️🌌🧑‍🤝‍🧑",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "your name",
+            "kimi no na wa"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3678",
+        "emojis": "🌳🐱☔",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "my neighbor totoro",
+            "totoro"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3679",
+        "emojis": "👹⚔️☀️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "demon slayer",
+            "kimetsu no yaiba"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3680",
+        "emojis": "🏘️⚔️👹",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "attack on titan",
+            "aot"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3681",
+        "emojis": "🎮🔫💣",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "cs2",
+            "counter-strike",
+            "csgo",
+            "counter strike",
+            "counter strike 2"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3682",
+        "emojis": "⚔️🛡️🌳",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "dota 2",
+            "dota"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3683",
+        "emojis": "👑⚔️rift",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "league of legends",
+            "lol",
+            "league"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3684",
+        "emojis": "⛏️🌳🏠",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "minecraft"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3685",
+        "emojis": "🔫💥",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "valorant"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3686",
+        "emojis": "🦸‍♀️🔫🤖",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "overwatch",
+            "overwatch 2"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3687",
+        "emojis": "🕺🔫🏗️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "fortnite"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3688",
+        "emojis": "🧑‍🚀🔪",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "among us"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3689",
+        "emojis": "🌍⚔️🛡️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "world of warcraft",
+            "wow"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3690",
+        "emojis": "🐔🍽️🔫",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "pubg",
+            "playerunknown's battlegrounds"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3691",
+        "emojis": "👾🩸💍",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "apex legends",
+            "apex"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3692",
+        "emojis": "⚡️🎮👺",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "genshin impact"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3693",
+        "emojis": "🏹🛡️🌲",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "legend of zelda",
+            "zelda",
+            "breath of the wild",
+            "tears of the kingdom"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3694",
+        "emojis": "🎮🏎️🏁",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "mario kart",
+            "mariokart"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3695",
+        "emojis": "💰🎁🎥",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "mrbeast",
+            "mr beast"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3696",
+        "emojis": "🚀🚗🐦",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "elon musk"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3697",
+        "emojis": "🎤❤️🐈",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "taylor swift"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3698",
+        "emojis": "🪨💪🎥",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "dwayne johnson",
+            "the rock",
+            "dwayne the rock johnson"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3699",
+        "emojis": "🧑‍🍳😡🐑",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "gordon ramsay"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3700",
+        "emojis": "🎮🪑🇸🇪",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "pewdiepie",
+            "felix kjellberg"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3701",
+        "emojis": "🛳️🏆🧊",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "leonardo dicaprio",
+            "leo dicaprio"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3702",
+        "emojis": "🎤💚👻",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "billie eilish"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3703",
+        "emojis": "🎮🇨🇦💨",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "xqc",
+            "felix lengyel"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3704",
+        "emojis": "🇯🇵🌸🍣",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "japan"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3705",
+        "emojis": "🇫🇷🗼🍷",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "france",
+            "paris"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3706",
+        "emojis": "🇮🇹🍕🍝",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "italy"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3707",
+        "emojis": "🇺🇸🗽🍔",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "usa",
+            "united states",
+            "america"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3708",
+        "emojis": "🇬🇧🕰️🚌",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "london"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3709",
+        "emojis": "🇪🇬🔺🐪",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "egypt"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3710",
+        "emojis": "🇦🇺🦘🐨",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "australia"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3711",
+        "emojis": "🇲🇳🐎 yurt",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "mongolia"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3712",
+        "emojis": "🗽🚕🍎",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "new york",
+            "nyc",
+            "new york city"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3713",
+        "emojis": "🍕🧀🍅",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "pizza"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3714",
+        "emojis": "🍔🍟🥤",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "burger",
+            "hamburger"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3715",
+        "emojis": "🍣🍚🥢",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "sushi"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3716",
+        "emojis": "🌮🌶️🇲🇽",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "taco"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3717",
+        "emojis": "🍦🍓🍫",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "ice cream"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3718",
+        "emojis": "🍩✨",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "donut",
+            "doughnut"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3719",
+        "emojis": "🍜🍥🥢",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "ramen"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3720",
+        "emojis": "🥐🇫🇷🧈",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "croissant"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3721",
+        "emojis": "🧋",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "bubble tea",
+            "boba"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3722",
+        "emojis": "🏀⛹️‍♂️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "basketball"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3723",
+        "emojis": "⚽️🥅🏆",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "football",
+            "soccer"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3724",
+        "emojis": "⚾️🧢🏟️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "baseball"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3725",
+        "emojis": "🎾",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "tennis"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3726",
+        "emojis": "🏎️🏁🏆",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "formula 1",
+            "f1"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3727",
+        "emojis": "🟣🟡🏀",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "los angeles lakers",
+            "lakers",
+            "la lakers"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3728",
+        "emojis": "⚽️👑🇪🇸",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "real madrid"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3729",
+        "emojis": "🏅🥇🥈",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "olympics",
+            "olympic games"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3730",
+        "emojis": "🏉💪",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "rugby"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3731",
+        "emojis": "🦑🔺🟩",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "squid game"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3732",
+        "emojis": "🛋️☕️🫂",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "friends"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3733",
+        "emojis": "📄💻😂",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "the office",
+            "office"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3734",
+        "emojis": "🐉⚔️👑",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "game of thrones",
+            "got"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3735",
+        "emojis": "🚲👾🧇",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "stranger things"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3736",
+        "emojis": "🧪👨‍🦲💰",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "breaking bad"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3737",
+        "emojis": "🟡👨‍👩‍👧‍👦🍩",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "the simpsons",
+            "simpsons"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3738",
+        "emojis": "🖤🕷️💃",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "wednesday",
+            "wednesday addams"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3739",
+        "emojis": "👺💰🏦",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "money heist",
+            "la casa de papel"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3740",
+        "emojis": "🎸🧡➕",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "ed sheeran"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3741",
+        "emojis": "🎤😭✨",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "adele"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3742",
+        "emojis": "👑🎤🕺",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "queen",
+            "band queen"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3743",
+        "emojis": "🕺🧤👑",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "michael jackson",
+            "mj"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3744",
+        "emojis": "🎶🥁🎸",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "bohemian rhapsody",
+            "queen bohemian rhapsody"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3745",
+        "emojis": "🎸🎶🍏",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "the beatles",
+            "beatles"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3746",
+        "emojis": "🐉🎶🥁",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "imagine dragons"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3747",
+        "emojis": "😈🖤🎶",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "bad guy",
+            "billie eilish bad guy"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3748",
+        "emojis": "🎤🕺💜",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "bts",
+            "bangtan boys"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3749",
+        "emojis": "🎶👋👦",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "hey jude",
+            "the beatles hey jude"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3750",
+        "emojis": "💃🎤✨",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "ariana grande"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3751",
+        "emojis": "🐢🍕🥷",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "ninja turtles",
+            "tmnt",
+            "teenage mutant ninja turtles",
+            "mutant turtles"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3752",
+        "emojis": "🦸‍♂️🕷️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "spider-man",
+            "spiderman",
+            "spider man",
+            "peter parker"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3753",
+        "emojis": "🎮🔫💣",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "cs2",
+            "counter-strike",
+            "csgo",
+            "counter strike"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3754",
+        "emojis": "🦁👑",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "the lion king",
+            "lion king"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3755",
+        "emojis": "🎤🌟",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "lady gaga",
+            "gaga"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3756",
+        "emojis": "🍕🇮🇹",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "italy",
+            "rome",
+            "italian"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3757",
+        "emojis": "⚽🏆",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "world cup",
+            "fifa world cup",
+            "football world cup"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3758",
+        "emojis": "🛋️☕👯‍♀️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "friends",
+            "friends tv show"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3759",
+        "emojis": "🥶❄️👸",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "frozen",
+            "frozen movie",
+            "elsa"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3760",
+        "emojis": "⛏️🌳🏡",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "minecraft"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3761",
+        "emojis": "🦇🌃",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "batman",
+            "dark knight",
+            "gotham"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3762",
+        "emojis": "🍜🍥🥷",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "naruto",
+            "naruto uzumaki"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3763",
+        "emojis": "🧙‍♂️⚡ scar",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "harry potter",
+            "hogwarts"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3764",
+        "emojis": "🔫🤖🌌",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "star wars",
+            "jedis",
+            "sith"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3765",
+        "emojis": "🏴‍☠️👒",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "one piece",
+            "luffy",
+            "straw hat pirates"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3766",
+        "emojis": "🐉🔮",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "dragon ball",
+            "goku",
+            "dbz"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3767",
+        "emojis": "🗡️🛡️🐉",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "dota 2",
+            "defense of the ancients 2",
+            "dota"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3768",
+        "emojis": "🗼🇫🇷",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "paris",
+            "france",
+            "eiffel tower"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3769",
+        "emojis": "🍔🍟",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "mcdonalds",
+            "burger king",
+            "fast food",
+            "burger and fries"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3770",
+        "emojis": "🎸🎤🎶",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "rock music",
+            "band",
+            "concert"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3771",
+        "emojis": "🏀👑",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "lebron james",
+            "king james",
+            "lebron"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3772",
+        "emojis": "☠️🏴‍☠️💰",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "pirates of the caribbean",
+            "jack sparrow",
+            "pirate movie"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3773",
+        "emojis": "🇺🇸🗽🍎",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "new york",
+            "nyc",
+            "america",
+            "united states"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3774",
+        "emojis": "🐻🍯",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "winnie the pooh",
+            "pooh bear"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3775",
+        "emojis": "👻busters",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "ghostbusters"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3776",
+        "emojis": "🐺🌕",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "twilight",
+            "werewolf",
+            "vampire"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3777",
+        "emojis": "💉🩸🧛",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "dracula",
+            "vampire",
+            "blood"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3778",
+        "emojis": "🏎️💨🚦",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "formula 1",
+            "f1",
+            "racing"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3779",
+        "emojis": "🐍🌳📖",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "the jungle book",
+            "jungle book",
+            "mowgli"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3780",
+        "emojis": "📺📈📉",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "squid game"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3781",
+        "emojis": "🍣🥢🇯🇵",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "sushi",
+            "japan",
+            "japanese food"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3782",
+        "emojis": "👑🛡️⚔️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "game of thrones",
+            "got"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3783",
+        "emojis": "🎶💜",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "bts",
+            "kpop",
+            "bangtan"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3784",
+        "emojis": "🍎 Bite 📱",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "apple",
+            "iphone",
+            "steve jobs"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3785",
+        "emojis": "🤖👾",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "league of legends",
+            "lol",
+            "champions"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3786",
+        "emojis": "🇮🇪☘️🍻",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "ireland",
+            "irish",
+            "dublin"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3787",
+        "emojis": "🍩🍩🍩",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "the simpsons",
+            "homer simpson",
+            "donuts"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3788",
+        "emojis": "🎩🐇⏱️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "alice in wonderland",
+            "mad hatter"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3789",
+        "emojis": "🏹🎯🎮",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "genshin impact",
+            "archery game",
+            "fantasy game"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "id": "e3790",
+        "emojis": "🎤👸pop",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "britney spears",
+            "pop princess"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3791",
+        "emojis": "🌊🐠🦀",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "the little mermaid",
+            "ariel"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3792",
+        "emojis": "👨‍🔬🧪💥",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "breaking bad",
+            "walter white",
+            "heisenberg"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3793",
+        "emojis": "🏎️⚡️🏆",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "cars",
+            "lightning mcqueen"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3794",
+        "emojis": "🧙‍♂️💍🌋",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "lord of the rings",
+            "lotr",
+            "frodo"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3795",
+        "emojis": "🎤🎤👨‍👩‍👧‍👦",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "queen",
+            "freddie mercury"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3796",
+        "emojis": "🧇 Stranger 💡",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "stranger things",
+            "eleven"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3797",
+        "emojis": "🚀🧑‍🚀👽",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "alien",
+            "space",
+            "sci-fi"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3798",
+        "emojis": "👻🍬🎃",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "halloween"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3799",
+        "emojis": "🔴🔵⚡",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "sonic",
+            "sonic the hedgehog"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3800",
+        "emojis": "🗽🍳🗽",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "new york city",
+            "nyc",
+            "big apple"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3801",
+        "emojis": "🏈🏈🇺🇸",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "nfl",
+            "american football",
+            "super bowl"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3802",
+        "emojis": "🎵🐍",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "taylor swift",
+            "reputation",
+            "swiftie"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3803",
+        "emojis": "👑🐒",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "king kong"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3804",
+        "emojis": "👨‍👩‍👧‍👦🏖️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "family vacation",
+            "holiday"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3805",
+        "emojis": "🤖🦾",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "transformers",
+            "optimus prime"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3806",
+        "emojis": "🍫🏭 Wonka",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "charlie and the chocolate factory",
+            "willy wonka"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3807",
+        "emojis": "🏰🐭",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "disney",
+            "disneyland",
+            "walt disney"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3808",
+        "emojis": "☕ Friends",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "central perk",
+            "friends tv show"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3809",
+        "emojis": "🏎️💨😡",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "fast and furious",
+            "f&f"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3810",
+        "emojis": "🎤🌟🇨🇦",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "justin bieber",
+            "bieber"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3811",
+        "emojis": "🥋🐉👊",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "kung fu panda",
+            "po"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3812",
+        "emojis": "💉🦠🧟",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "the walking dead",
+            "zombies"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3813",
+        "emojis": "🏹👱‍♀️🔥",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "the hunger games",
+            "katniss everdeen"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3814",
+        "emojis": "👽📞🏡",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "e.t. the extra-terrestrial",
+            "et"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3815",
+        "emojis": "🎭👻 Broadway",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "the phantom of the opera",
+            "phantom of the opera"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "id": "e3816",
+        "emojis": "✈️💨⏱️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "top gun",
+            "maverick"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3817",
+        "emojis": "🔥🌋🦖",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "jurassic park",
+            "dinosaurs"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3818",
+        "emojis": "⚽🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "premier league",
+            "manchester united",
+            "liverpool"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3819",
+        "emojis": "🤖🚗",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "tesla",
+            "elon musk",
+            "electric car"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3820",
+        "emojis": "🎤🎤💃🕺",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "abba",
+            "dancing queen"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3821",
+        "emojis": "👻 scream",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "scream",
+            "ghostface"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3822",
+        "emojis": "👨‍👩‍👧‍👦🏠🎈",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "up",
+            "up movie",
+            "carl fredricksen"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3823",
+        "emojis": "🏴‍☠️🦜 Treasure",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "treasure island",
+            "pirate adventure"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "id": "e3824",
+        "emojis": "🍝🍝",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "spaghetti",
+            "pasta",
+            "italian food"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3825",
+        "emojis": "🕵️‍♂️🎩",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "sherlock holmes",
+            "detective"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3826",
+        "emojis": "🌌 Guardians 🌠",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "guardians of the galaxy",
+            "starlord",
+            "groot"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3827",
+        "emojis": "👑🥶⚔️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "frozen",
+            "elsa",
+            "anna"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3828",
+        "emojis": "🔴🕷️⚫",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "miles morales",
+            "spider-verse",
+            "spider-man"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3829",
+        "emojis": "🧙‍♀️🪄🏫",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "hogwarts legacy",
+            "harry potter game"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3830",
+        "emojis": "🇯🇵🌸🗻",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "japan",
+            "japanese",
+            "tokyo",
+            "mount fuji"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3831",
+        "emojis": "🎤🎤✨",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "ariana grande",
+            "grande"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3832",
+        "emojis": "🏀🥅",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "nba",
+            "basketball"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3833",
+        "emojis": "🐉⛰️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "mulan",
+            "china"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3834",
+        "emojis": "👨‍🚀🌕",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "moon landing",
+            "apollo 11",
+            "neil armstrong"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3835",
+        "emojis": "🍷🧛‍♂️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "dracula",
+            "vampire",
+            "blood"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3836",
+        "emojis": "👩‍🎤🎤",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "adele",
+            "singer"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3837",
+        "emojis": "👨‍🔧⚡",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "thor",
+            "god of thunder",
+            "marvel"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3838",
+        "emojis": "💍💎 Gollum",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "gollum",
+            "lord of the rings",
+            "my precious"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3839",
+        "emojis": "🔪🧑‍🍳🇫🇷",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "ratatouille",
+            "remy",
+            "french cuisine"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3840",
+        "emojis": "🔫🤠🏜️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "red dead redemption",
+            "rdr2",
+            "cowboy game"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3841",
+        "emojis": "🇺🇸🦅⚽",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "philadelphia eagles",
+            "eagles nfl"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "id": "e3842",
+        "emojis": "🤖💊",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "the matrix",
+            "neo",
+            "red pill blue pill"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3843",
+        "emojis": "🧙‍♀️📚",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "hermione granger",
+            "harry potter"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3844",
+        "emojis": "👻🔪",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "scream",
+            "ghostface"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3845",
+        "emojis": "👑🇬🇧",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "united kingdom",
+            "uk",
+            "london",
+            "queen elizabeth"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3846",
+        "emojis": "🎵💔",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "sad song",
+            "breakup song"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3847",
+        "emojis": "🐻 Baloo  Jungle",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "the jungle book",
+            "baloo"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3848",
+        "emojis": "🍜🍲🥢",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "ramen",
+            "pho",
+            "noodles"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3849",
+        "emojis": "🏈🐅",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "cincinnati bengals",
+            "bengals nfl"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "id": "e3850",
+        "emojis": "🧟‍♂️🧟‍♀️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "zombies",
+            "the walking dead"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3851",
+        "emojis": "👨‍🎤👑",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "michael jackson",
+            "king of pop"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3852",
+        "emojis": "🚗💨🕰️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "back to the future",
+            "delorean",
+            "marty mcfly"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3853",
+        "emojis": "⚔️🛡️🔥",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "game of thrones",
+            "got"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3854",
+        "emojis": "🦸‍♀️ lasso",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "wonder woman",
+            "diana prince"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3855",
+        "emojis": "💻🎮 Twitch",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "ninja",
+            "twitch streamer",
+            "gamer"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "id": "e3856",
+        "emojis": "🌮🇲🇽",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "mexico",
+            "mexican food",
+            "taco"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3857",
+        "emojis": "🏀🐐",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "michael jordan",
+            "mj",
+            "goat"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3858",
+        "emojis": "🩸🧛‍♀️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "true blood",
+            "vampire show"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "id": "e3859",
+        "emojis": "🌟🧚‍♂️ Neverland",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "peter pan",
+            "tinkerbell"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3860",
+        "emojis": "🎼🎻",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "classical music",
+            "orchestra",
+            "symphony"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3861",
+        "emojis": "🧙‍♂️ Gandalf",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "gandalf",
+            "lord of the rings",
+            "middle earth"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3862",
+        "emojis": "🇮🇳🕌",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "india",
+            "taj mahal"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3863",
+        "emojis": "🧟‍♂️🚫",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "zombieland",
+            "zombie movie"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3864",
+        "emojis": "🍕 Teenage",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "teenage mutant ninja turtles",
+            "tmnt",
+            "ninja turtles"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3865",
+        "emojis": "👩‍🎤👑 Diva",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "mariah carey",
+            "diva"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "id": "e3866",
+        "emojis": "🗡️🛡️🎮",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "the legend of zelda",
+            "zelda",
+            "link"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3867",
+        "emojis": "🐉🧊",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "game of thrones",
+            "ice and fire"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3868",
+        "emojis": "🌌🪐🚀",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "interstellar",
+            "space travel"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3869",
+        "emojis": "🎤👸🎶",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "beyonce",
+            "queen bey"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3870",
+        "emojis": "🏡👽🛸",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "et",
+            "e.t. the extra-terrestrial"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3871",
+        "emojis": "🏃‍♂️💨🔵",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "sonic the hedgehog",
+            "sonic"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3872",
+        "emojis": "🗽🏟️ Yankees",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "new york yankees",
+            "yankees"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "id": "e3873",
+        "emojis": "📺🧠",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "the big bang theory",
+            "sheldon cooper"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3874",
+        "emojis": "👻🚫",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "ghostbusters"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3875",
+        "emojis": "🎸💥🎤",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "rock band",
+            "ac/dc",
+            "led zeppelin"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3876",
+        "emojis": "🗡️🐺 Snow",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "game of thrones",
+            "jon snow",
+            "winterfell"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3877",
+        "emojis": "🍔 King 👑",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "burger king"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3878",
+        "emojis": "🎥🧟",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "the walking dead",
+            "zombie movie"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3879",
+        "emojis": "🐻🍯👦",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "winnie the pooh",
+            "christopher robin"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3880",
+        "emojis": "🏎️🚦🏁",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "nascar",
+            "race car"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "id": "e3881",
+        "emojis": "🤖🔫",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "terminator",
+            "arnold schwarzenegger"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3882",
+        "emojis": "🇮🇸🧊🔥",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "iceland",
+            "land of ice and fire"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "id": "e3883",
+        "emojis": "🎵🌌",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "coldplay",
+            "a sky full of stars"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3884",
+        "emojis": "⚔️🐺",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "the witcher",
+            "geralt of rivia"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3885",
+        "emojis": "🍳🥓🧇",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "breakfast",
+            "brunch"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3886",
+        "emojis": "🏝️ Castaway 🏐",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "cast away",
+            "wilson",
+            "tom hanks"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "id": "e3887",
+        "emojis": "🍎☠️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "snow white",
+            "evil queen",
+            "poison apple"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3888",
+        "emojis": "🎮👾🚫",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "pac-man",
+            "arcade game"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3889",
+        "emojis": "👽🕵️‍♂️ FBI",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "the x-files",
+            "x-files",
+            "mulder and scully"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "id": "e3890",
+        "emojis": "🍿🎬",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "movie night",
+            "cinema",
+            "film"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3891",
+        "emojis": "🎵👨‍🎤",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "ed sheeran",
+            "singer"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3892",
+        "emojis": "🏎️🐢",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "mario kart",
+            "nintendo"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3893",
+        "emojis": "🚢🧊💔",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "titanic",
+            "jack and rose"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3894",
+        "emojis": "🏰🧛‍♂️",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "dracula",
+            "vampire castle"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3895",
+        "emojis": "🤖🦾🌃",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "robocop",
+            "detroit"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "id": "e3896",
+        "emojis": "🐼🥋",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "kung fu panda",
+            "po"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3897",
+        "emojis": "🧝‍♀️🌳🏹",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "legolas",
+            "lord of the rings",
+            "elf"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3898",
+        "emojis": "🇨🇦🍁🏒",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "canada",
+            "ice hockey",
+            "maple leaf"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3899",
+        "emojis": "🎤🌟💫",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "bruno mars",
+            "singer"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "id": "e3900",
+        "emojis": "🧟‍♂️🔫",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "call of duty zombies",
+            "cod zombies"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "id": "e3901",
+        "emojis": "🍳🥞🧇",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "breakfast",
+            "brunch"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3902",
+        "emojis": "🤖👨‍🦱",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "mark zuckerberg",
+            "facebook",
+            "meta"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3903",
+        "emojis": "🐅🐯🦁",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "tiger king",
+            "joe exotic"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3904",
+        "emojis": "🌌👩‍🚀",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "gravity",
+            "space film"
+        ],
+        "difficulty": "normal"
+    },
+    {
+        "id": "e3905",
+        "emojis": "👻🔍",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "scooby doo",
+            "mystery machine"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3906",
+        "emojis": "🍻🇩🇪",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "germany",
+            "beer",
+            "oktoberfest"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3907",
+        "emojis": "🎵🎸🤘",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "heavy metal",
+            "rock music"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "id": "e3908",
+        "emojis": "🍎🍏🐍",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "adam and eve",
+            "garden of eden"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "id": "e3909",
+        "emojis": "🏀🔥",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "miami heat",
+            "nba team"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "id": "e3910",
+        "emojis": "👩‍🎤🎶💃",
+        "question": "Энэ эможинууд юуг илэрхийлж байна вэ?",
+        "acceptable_answers": [
+            "shakira",
+            "hips don't lie"
+        ],
+        "difficulty": "normal"
     }
 ]
