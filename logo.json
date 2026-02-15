@@ -9,7 +9,7 @@
                 "team vitality"
             ],
             "color": "#f0cf00",
-            "logo": "https://img-cdn.hltv.org/teamlogo/9Fz4yF3RDYj4KeGBq6eSJl.svg?ixlib=java-2.1.0&s=60707fa8e7ee166b2bd3aec60944724d"
+            "logo": "https://img-cdn.hltv.org/teamlogo/yeXBldn9w8LZCgdElAenPs.png?ixlib=java-2.1.0&w=50&s=15eaba0b75250065d20162d2cb05e3e6"
         },
         {
             "id": "furia",
@@ -18,7 +18,7 @@
                 "fur"
             ],
             "color": "#333333",
-            "logo": "https://img-cdn.hltv.org/teamlogo/MC66nivT6tOXYB-HUpZMMN.svg?ixlib=java-2.1.0&s=5ef26ce4340c601c62c8dc5610bcb326"
+            "logo": "https://img-cdn.hltv.org/teamlogo/mvNQc4csFGtxXk5guAh8m1.svg?ixlib=java-2.1.0&s=11e5056829ad5d6c06c5961bbe76d20c"
         },
         {
             "id": "falcons",
@@ -28,7 +28,7 @@
                 "team falcons"
             ],
             "color": "#b91c1c",
-            "logo": "https://img-cdn.hltv.org/teamlogo/6f3BlWSTAtvRzEjoWVIKqa.png?ixlib=java-2.1.0&w=50&s=e63cb0e605d27d88c2b83357682a2d59"
+            "logo": "https://img-cdn.hltv.org/teamlogo/4eJSkDQINNM6Tbs4WvLzkN.png?ixlib=java-2.1.0&w=50&s=d8c857ea47046f61eca695beab0d12ef"
         },
         {
             "id": "navi",
@@ -39,7 +39,7 @@
                 "natusvincere"
             ],
             "color": "#fff200",
-            "logo": "https://img-cdn.hltv.org/teamlogo/OedYxy1pwo0RHp323MacXx.svg?ixlib=java-2.1.0&s=b2bbfc6bd6864366a77511d4cf52617d"
+            "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c"
         },
         {
             "id": "mouz",
@@ -49,7 +49,7 @@
                 "mouse"
             ],
             "color": "#dc0e1a",
-            "logo": "https://img-cdn.hltv.org/teamlogo/jCRUKN8Pn3aF2IQ7Lg8JyR.svg?ixlib=java-2.1.0&s=3ffeb9a7693abe68c89455efc43c6b96"
+            "logo": "https://img-cdn.hltv.org/teamlogo/IejtXpquZnE8KqYPB1LNKw.svg?ixlib=java-2.1.0&s=7fd33b8def053fbfd8fdbb58e3bdcd3c"
         },
         {
             "id": "faze",
@@ -59,7 +59,7 @@
                 "fazeclan"
             ],
             "color": "#bf002c",
-            "logo": "https://img-cdn.hltv.org/teamlogo/SMhMGmmkXV9ESwzh8RWd89.svg?ixlib=java-2.1.0&s=d1ed37bcfa5b442c7472301f61e6c9ba"
+            "logo": "https://img-cdn.hltv.org/teamlogo/Ci5ue0CdOwnUeY9RgMt7Km.png?ixlib=java-2.1.0&w=50&s=e38848db8d51b36086f19a3cbca6c308"
         },
         {
             "id": "mongolz",
@@ -79,7 +79,7 @@
                 "aurora gaming"
             ],
             "color": "#00b8d4",
-            "logo": "https://img-cdn.hltv.org/teamlogo/I0W8Ba7iMGQgfm-3X9ltbY.png?ixlib=java-2.1.0&w=50&s=bb6a4f6128c6a28632cc820e0d742c1f"
+            "logo": "https://img-cdn.hltv.org/teamlogo/yJzPNOeXlyiniNxanYJCrv.png?ixlib=java-2.1.0&w=50&s=2c08f70c2f2f8c2024a438ddcf19bbf1"
         },
         {
             "id": "b8",
@@ -91,13 +91,13 @@
             "logo": "https://img-cdn.hltv.org/teamlogo/mVdg6VAd7MJg3k-A3X5TLv.png?ixlib=java-2.1.0&w=50&s=9cbea8e4f92ef96c3c2c5f30c9b93e54"
         },
         {
-            "id": "legacy",
+            "id": "fut",
             "names": [
-                "legacy",
-                "lgc"
+                "fut",
+                
             ],
-            "color": "#1d4ed8",
-            "logo": "https://img-cdn.hltv.org/teamlogo/lYWwrhzGbbqU9SRupPjFXP.png?ixlib=java-2.1.0&w=50&s=fec1c6f47c00e98e98f6f3b9a3ffff0a"
+            "color": "#727375",
+            "logo": "https://img-cdn.hltv.org/teamlogo/Os71GAOy8KDuQFc0M8HE6O.png?ixlib=java-2.1.0&w=50&s=86f2bded6bcb7c690a42a62250ed69e7"
         },
         {
             "id": "g2",
@@ -107,7 +107,7 @@
                 "g2esports"
             ],
             "color": "#1f1f1f",
-            "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAEQ2yDQCajSsjhSX8X.svg?ixlib=java-2.1.0&s=3e690aa1654787ffa07c31495de0d4b0"
+            "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b"
         },
         {
             "id": "3dmax",
@@ -117,7 +117,7 @@
                 "3dm"
             ],
             "color": "#06b6d4",
-            "logo": "https://img-cdn.hltv.org/teamlogo/83YP6AWLE6thdPaOca1vMu.png?ixlib=java-2.1.0&w=50&s=cc54a407fb66b4c54f3bf69d01b4f5a3"
+            "logo": "https://img-cdn.hltv.org/teamlogo/QGPDS3Z2-aMXwCYVgA4RWH.png?ixlib=java-2.1.0&w=50&s=ec528d7e9d0f9b6b4bac227901fb1590"
         },
         {
             "id": "astralis",
@@ -126,7 +126,7 @@
                 "ast"
             ],
             "color": "#ef4444",
-            "logo": "https://img-cdn.hltv.org/teamlogo/9pV50CjRRO8RS7hqfpr6La.svg?ixlib=java-2.1.0&s=e090d1134ec23109077801db3e9e22c4"
+            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067"
         },
         {
             "id": "parivision",
@@ -136,7 +136,7 @@
                 "paris"
             ],
             "color": "#f97316",
-            "logo": "https://img-cdn.hltv.org/teamlogo/5gMj6p_QQBQP_5DAIinBHq.png?ixlib=java-2.1.0&w=50&s=4f6a3e51ee4ae1f63ebb48c61ded4a53"
+            "logo": "https://img-cdn.hltv.org/teamlogo/MFcDe-M8wfGOUU6x4sRELR.png?ixlib=java-2.1.0&w=50&s=1d91076a58b354d8c3eaeda3162c292e"
         },
         {
             "id": "heroic",
