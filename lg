@@ -1,0 +1,192 @@
+{
+    "teams": [
+        {
+            "id": "vitality",
+            "names": [
+                "vitality",
+                "vita",
+                "vit",
+                "team vitality"
+            ],
+            "color": "#f0cf00",
+            "logo": "https://img-cdn.hltv.org/teamlogo/yeXBldn9w8LZCgdElAenPs.png?ixlib=java-2.1.0&w=50&s=15eaba0b75250065d20162d2cb05e3e6"
+        },
+        {
+            "id": "furia",
+            "names": [
+                "furia",
+                "fur"
+            ],
+            "color": "#333333",
+            "logo": "https://img-cdn.hltv.org/teamlogo/mvNQc4csFGtxXk5guAh8m1.svg?ixlib=java-2.1.0&s=11e5056829ad5d6c06c5961bbe76d20c"
+        },
+        {
+            "id": "falcons",
+            "names": [
+                "falcons",
+                "falcon",
+                "team falcons"
+            ],
+            "color": "#b91c1c",
+            "logo": "https://img-cdn.hltv.org/teamlogo/4eJSkDQINNM6Tbs4WvLzkN.png?ixlib=java-2.1.0&w=50&s=d8c857ea47046f61eca695beab0d12ef"
+        },
+        {
+            "id": "navi",
+            "names": [
+                "navi",
+                "na'vi",
+                "natus vincere",
+                "natusvincere"
+            ],
+            "color": "#fff200",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c"
+        },
+        {
+            "id": "mouz",
+            "names": [
+                "mouz",
+                "mousesports",
+                "mouse"
+            ],
+            "color": "#dc0e1a",
+            "logo": "https://img-cdn.hltv.org/teamlogo/IejtXpquZnE8KqYPB1LNKw.svg?ixlib=java-2.1.0&s=7fd33b8def053fbfd8fdbb58e3bdcd3c"
+        },
+        {
+            "id": "faze",
+            "names": [
+                "faze",
+                "faze clan",
+                "fazeclan"
+            ],
+            "color": "#bf002c",
+            "logo": "https://img-cdn.hltv.org/teamlogo/Ci5ue0CdOwnUeY9RgMt7Km.png?ixlib=java-2.1.0&w=50&s=e38848db8d51b36086f19a3cbca6c308"
+        },
+        {
+            "id": "mongolz",
+            "names": [
+                "mongolz",
+                "the mongolz",
+                "themongolz",
+                "mongols"
+            ],
+            "color": "linear-gradient(90deg, #da291c 0%, #000000 100%)",
+            "logo": "https://img-cdn.hltv.org/teamlogo/bRk2sh_tSTO6fq1GLhgcal.png?ixlib=java-2.1.0&w=50&s=8b08e53858eb817852ae74b30a30151d"
+        },
+        {
+            "id": "aurora",
+            "names": [
+                "aurora",
+                "aurora gaming"
+            ],
+            "color": "#00b8d4",
+            "logo": "https://img-cdn.hltv.org/teamlogo/yJzPNOeXlyiniNxanYJCrv.png?ixlib=java-2.1.0&w=50&s=2c08f70c2f2f8c2024a438ddcf19bbf1"
+        },
+        {
+            "id": "b8",
+            "names": [
+                "b8",
+                "betboom"
+            ],
+            "color": "#7e22ce",
+            "logo": "https://img-cdn.hltv.org/teamlogo/mVdg6VAd7MJg3k-A3X5TLv.png?ixlib=java-2.1.0&w=50&s=9cbea8e4f92ef96c3c2c5f30c9b93e54"
+        },
+        {
+            "id": "fut",
+            "names": [
+                "fut",
+                
+            ],
+            "color": "#727375",
+            "logo": "https://img-cdn.hltv.org/teamlogo/Os71GAOy8KDuQFc0M8HE6O.png?ixlib=java-2.1.0&w=50&s=86f2bded6bcb7c690a42a62250ed69e7"
+        },
+        {
+            "id": "g2",
+            "names": [
+                "g2",
+                "g2 esports",
+                "g2esports"
+            ],
+            "color": "#1f1f1f",
+            "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b"
+        },
+        {
+            "id": "3dmax",
+            "names": [
+                "3dmax",
+                "3d max",
+                "3dm"
+            ],
+            "color": "#06b6d4",
+            "logo": "https://img-cdn.hltv.org/teamlogo/QGPDS3Z2-aMXwCYVgA4RWH.png?ixlib=java-2.1.0&w=50&s=ec528d7e9d0f9b6b4bac227901fb1590"
+        },
+        {
+            "id": "astralis",
+            "names": [
+                "astralis",
+                "ast"
+            ],
+            "color": "#ef4444",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067"
+        },
+        {
+            "id": "parivision",
+            "names": [
+                "parivision",
+                "pari",
+                "paris"
+            ],
+            "color": "#f97316",
+            "logo": "https://img-cdn.hltv.org/teamlogo/MFcDe-M8wfGOUU6x4sRELR.png?ixlib=java-2.1.0&w=50&s=1d91076a58b354d8c3eaeda3162c292e"
+        },
+        {
+            "id": "heroic",
+            "names": [
+                "heroic",
+                "hero"
+            ],
+            "color": "#ea580c",
+            "logo": "https://img-cdn.hltv.org/teamlogo/lxNMNHq0NTfriZxDA2fRhv.svg?ixlib=java-2.1.0&s=35354cccc08c5f8c69b881ca30dc7fa1"
+        },
+        {
+            "id": "pain",
+            "names": [
+                "pain",
+                "pain gaming",
+                "paingaming",
+                "png"
+            ],
+            "color": "#db2777",
+            "logo": "https://img-cdn.hltv.org/teamlogo/8CePHpP2jpGV8bFhdT6Z7Y.svg?ixlib=java-2.1.0&s=ff5e367d6d5f96f5a75e50888f0cd95e"
+        }
+    ],
+    "fallback": {
+        "colorA": "#3b82f6",
+        "colorB": "#ef4444",
+        "logo": "https://img-cdn.hltv.org/teamlogo/default.svg"
+    },
+    "conflictResolution": {
+        "red": [
+            "#b91c1c",
+            "#dc0e1a",
+            "#bf002c",
+            "#ef4444"
+        ],
+        "yellow": [
+            "#f0cf00",
+            "#fff200",
+            "#f97316",
+            "#ea580c"
+        ],
+        "black": [
+            "#333333",
+            "#1f1f1f",
+            "#222222"
+        ],
+        "fallbacks": {
+            "red": "#333333",
+            "yellow": "#1d4ed8",
+            "black": "#9ca3af",
+            "default": "#6b7280"
+        }
+    }
+}
