@@ -84,11 +84,11 @@
         {
             "id": "b8",
             "names": [
-                "b8",
-                "betboom"
+                "b8"
+                
             ],
             "color": "#7e22ce",
-            "logo": "https://img-cdn.hltv.org/teamlogo/mVdg6VAd7MJg3k-A3X5TLv.png?ixlib=java-2.1.0&w=50&s=9cbea8e4f92ef96c3c2c5f30c9b93e54"
+            "logo": "https://img-cdn.hltv.org/teamlogo/rUIL5D299QDtRjXR2rxqV_.png?ixlib=java-2.1.0&w=50&s=3c6cf22f3a3c85a5fb69af20395bebfc"
         },
         {
             "id": "fut",
@@ -145,7 +145,7 @@
                 "hero"
             ],
             "color": "#ea580c",
-            "logo": "https://img-cdn.hltv.org/teamlogo/lxNMNHq0NTfriZxDA2fRhv.svg?ixlib=java-2.1.0&s=35354cccc08c5f8c69b881ca30dc7fa1"
+            "logo": "https://img-cdn.hltv.org/teamlogo/4S22uk_gnZTiQiI-hhH4yp.png?ixlib=java-2.1.0&w=50&s=3619ddf1d490573ab3dc261b8c2f3f6f"
         },
         {
             "id": "pain",
@@ -156,7 +156,7 @@
                 "png"
             ],
             "color": "#db2777",
-            "logo": "https://img-cdn.hltv.org/teamlogo/8CePHpP2jpGV8bFhdT6Z7Y.svg?ixlib=java-2.1.0&s=ff5e367d6d5f96f5a75e50888f0cd95e"
+            "logo": "https://img-cdn.hltv.org/teamlogo/x7znFH8_QjLXOQRyR2y7Xp.png?ixlib=java-2.1.0&w=50&s=e4435bf7c351b546b867adc1d7886795"
         }
     ],
     "fallback": {
