@@ -1,0 +1,162 @@
+{
+  "teams": [
+    {
+      "id": "vitality",
+      "names": [
+        "vitality",
+        "vita",
+        "vit",
+        "team vitality"
+      ],
+      "color": "#2B4655",
+      "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/vitality.webp"
+    },
+    {
+      "id": "furia",
+      "names": [
+        "furia",
+        "fur"
+      ],
+      "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/furia.webp",
+      "color": "#000000"
+    },
+    {
+      "id": "falcons",
+      "names": [
+        "falcons",
+        "falcon",
+        "team falcons"
+      ],
+      "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/falcons.webp",
+      "color": "#56BB76"
+    },
+    {
+      "id": "navi",
+      "names": [
+        "navi",
+        "na'vi",
+        "natus vincere",
+        "natusvincere"
+      ],
+      "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/natus_vincere.webp",
+      "color": "#FBE94E"
+    },
+    {
+      "id": "mouz",
+      "names": [
+        "mouz",
+        "mousesports",
+        "mouse"
+      ],
+      "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/mouz.webp",
+      "color": "#EA3324"
+    },
+    {
+      "id": "faze",
+      "names": [
+        "faze",
+        "faze clan",
+        "fazeclan"
+      ],
+      "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/faze_clan.webp",
+      "color": "#EA3324"
+    },
+    {
+      "id": "mongolz",
+      "names": [
+        "mongolz",
+        "the mongolz",
+        "themongolz",
+        "mongols"
+      ],
+      "color": "#E8C674",
+      "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/the_mongolz.webp"
+    },
+    {
+      "id": "aurora",
+      "names": [
+        "aurora",
+        "aurora gaming"
+      ],
+      "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/aurora_gaming.webp",
+      "color": "#5BC3BB"
+    },
+    {
+      "id": "b8",
+      "names": [
+        "b8",
+        "betboom"
+      ],
+      "color": "#2B4655",
+      "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/b8_esports.webp"
+    },
+    {
+      "id": "fut",
+      "names": [
+        "fut"
+      ],
+      "color": "#2B4655",
+      "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/fut_esports.webp"
+    },
+    {
+      "id": "g2",
+      "names": [
+        "g2",
+        "g2 esports",
+        "g2esports"
+      ],
+      "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/g2_esports.webp",
+      "color": "#DA3A33"
+    },
+    {
+      "id": "3dmax",
+      "names": [
+        "3dmax",
+        "3d max",
+        "3dm"
+      ],
+      "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/3dmax.webp",
+      "color": "#000000"
+    },
+    {
+      "id": "astralis",
+      "names": [
+        "astralis",
+        "ast"
+      ],
+      "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/astralis.webp",
+      "color": "#EA3323"
+    },
+    {
+      "id": "parivision",
+      "names": [
+        "parivision",
+        "pari",
+        "paris"
+      ],
+      "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/parivision.webp"
+    },
+    {
+      "id": "heroic",
+      "names": [
+        "heroic",
+        "hero"
+      ],
+      "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/heroic.webp"
+    },
+    {
+      "id": "pain",
+      "names": [
+        "pain",
+        "pain gaming",
+        "paingaming",
+        "png"
+      ],
+      "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/pain_gaming.webp",
+      "color": "#000000"
+    }
+  ],
+  "fallback": {
+    "logo": "https://img-cdn.hltv.org/teamlogo/default.svg"
+  }
+}
