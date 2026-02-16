@@ -9,7 +9,7 @@
                 "team vitality"
             ],
             "color": "#f0cf00",
-            "logo": "https://img-cdn.hltv.org/teamlogo/yeXBldn9w8LZCgdElAenPs.png?ixlib=java-2.1.0&w=50&s=15eaba0b75250065d20162d2cb05e3e6"
+            "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/vitality.webp"
         },
         {
             "id": "furia",
@@ -39,7 +39,7 @@
                 "natusvincere"
             ],
             "color": "#fff200",
-            "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c"
+            "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/natus_vincere.webp"
         },
         {
             "id": "mouz",
@@ -49,7 +49,7 @@
                 "mouse"
             ],
             "color": "#dc0e1a",
-            "logo": "https://img-cdn.hltv.org/teamlogo/IejtXpquZnE8KqYPB1LNKw.svg?ixlib=java-2.1.0&s=7fd33b8def053fbfd8fdbb58e3bdcd3c"
+            "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/mouz.webp"
         },
         {
             "id": "faze",
@@ -59,7 +59,7 @@
                 "fazeclan"
             ],
             "color": "#bf002c",
-            "logo": "https://img-cdn.hltv.org/teamlogo/Ci5ue0CdOwnUeY9RgMt7Km.png?ixlib=java-2.1.0&w=50&s=e38848db8d51b36086f19a3cbca6c308"
+            "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/faze_clan.webp"
         },
         {
             "id": "mongolz",
@@ -70,7 +70,7 @@
                 "mongols"
             ],
             "color": "linear-gradient(90deg, #da291c 0%, #000000 100%)",
-            "logo": "https://img-cdn.hltv.org/teamlogo/bRk2sh_tSTO6fq1GLhgcal.png?ixlib=java-2.1.0&w=50&s=8b08e53858eb817852ae74b30a30151d"
+            "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/the_mongolz.webp"
         },
         {
             "id": "aurora",
@@ -79,7 +79,7 @@
                 "aurora gaming"
             ],
             "color": "#00b8d4",
-            "logo": "https://img-cdn.hltv.org/teamlogo/yJzPNOeXlyiniNxanYJCrv.png?ixlib=java-2.1.0&w=50&s=2c08f70c2f2f8c2024a438ddcf19bbf1"
+            "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/aurora_gaming.webp"
         },
         {
             "id": "b8",
@@ -88,7 +88,7 @@
                 "betboom"
             ],
             "color": "#7e22ce",
-            "logo": "https://img-cdn.hltv.org/teamlogo/mVdg6VAd7MJg3k-A3X5TLv.png?ixlib=java-2.1.0&w=50&s=9cbea8e4f92ef96c3c2c5f30c9b93e54"
+            "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/b8_esports.webp"
         },
         {
             "id": "fut",
@@ -97,7 +97,7 @@
                 
             ],
             "color": "#727375",
-            "logo": "https://img-cdn.hltv.org/teamlogo/Os71GAOy8KDuQFc0M8HE6O.png?ixlib=java-2.1.0&w=50&s=86f2bded6bcb7c690a42a62250ed69e7"
+            "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/fut_esports.webp"
         },
         {
             "id": "g2",
@@ -107,7 +107,7 @@
                 "g2esports"
             ],
             "color": "#1f1f1f",
-            "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b"
+            "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/g2_esports.webp"
         },
         {
             "id": "3dmax",
@@ -117,7 +117,7 @@
                 "3dm"
             ],
             "color": "#06b6d4",
-            "logo": "https://img-cdn.hltv.org/teamlogo/QGPDS3Z2-aMXwCYVgA4RWH.png?ixlib=java-2.1.0&w=50&s=ec528d7e9d0f9b6b4bac227901fb1590"
+            "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/3dmax.webp"
         },
         {
             "id": "astralis",
@@ -126,7 +126,7 @@
                 "ast"
             ],
             "color": "#ef4444",
-            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067"
+            "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/astralis.webp"
         },
         {
             "id": "parivision",
@@ -136,7 +136,7 @@
                 "paris"
             ],
             "color": "#f97316",
-            "logo": "https://img-cdn.hltv.org/teamlogo/MFcDe-M8wfGOUU6x4sRELR.png?ixlib=java-2.1.0&w=50&s=1d91076a58b354d8c3eaeda3162c292e"
+            "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/parivision.webp"
         },
         {
             "id": "heroic",
@@ -145,7 +145,7 @@
                 "hero"
             ],
             "color": "#ea580c",
-            "logo": "https://img-cdn.hltv.org/teamlogo/lxNMNHq0NTfriZxDA2fRhv.svg?ixlib=java-2.1.0&s=35354cccc08c5f8c69b881ca30dc7fa1"
+            "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/heroic.webp"
         },
         {
             "id": "pain",
@@ -156,7 +156,7 @@
                 "png"
             ],
             "color": "#db2777",
-            "logo": "https://img-cdn.hltv.org/teamlogo/8CePHpP2jpGV8bFhdT6Z7Y.svg?ixlib=java-2.1.0&s=ff5e367d6d5f96f5a75e50888f0cd95e"
+            "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/pain_gaming.webp"
         }
     ],
     "fallback": {
