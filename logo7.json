@@ -156,6 +156,24 @@
       "color": "#000000"
     }
   ],
+  "matchups": [
+    {
+      "team1": "NaVi",
+      "team2": "Aurora"
+    },
+    {
+      "team1": "The MongolZ",
+      "team2": "B8"
+    },
+    {
+      "team1": "MOUZ",
+      "team2": "Vitality"
+    },
+    {
+      "team1": "FURIA",
+      "team2": "Falcons"
+    }
+  ],
   "fallback": {
     "logo": "https://img-cdn.hltv.org/teamlogo/default.svg"
   }
