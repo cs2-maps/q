@@ -18,7 +18,7 @@
                 "fur"
             ],
             "color": "#333333",
-            "logo": "https://img-cdn.hltv.org/teamlogo/mvNQc4csFGtxXk5guAh8m1.svg?ixlib=java-2.1.0&s=11e5056829ad5d6c06c5961bbe76d20c"
+            "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/furia.webp"
         },
         {
             "id": "falcons",
@@ -28,7 +28,7 @@
                 "team falcons"
             ],
             "color": "#b91c1c",
-            "logo": "https://img-cdn.hltv.org/teamlogo/4eJSkDQINNM6Tbs4WvLzkN.png?ixlib=java-2.1.0&w=50&s=d8c857ea47046f61eca695beab0d12ef"
+            "logo": "https://www.pglesports.com/images/CS2_events/teamsImages/falcons.webp"
         },
         {
             "id": "navi",
@@ -93,7 +93,7 @@
         {
             "id": "fut",
             "names": [
-                "fut",
+                "fut"
                 
             ],
             "color": "#727375",
