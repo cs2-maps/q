@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "source": "local-team-logos",
+    "repo": "cs2-maps/q",
+    "updatedAt": "2026-02-28T12:18:26.954Z",
+    "teamCount": 26
+  },
+  "fallback": {
+    "colorA": "#2f7bff",
+    "colorB": "#d84646",
+    "logo": ""
+  },
+  "teams": [
+    {
+      "id": "3dmax",
+      "names": [
+        "3dmax",
+        "3d max"
+      ],
+      "color": "#2f7bff",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/3dmax.png"
+    },
+    {
+      "id": "astralis",
+      "names": [
+        "astralis"
+      ],
+      "color": "#d84646",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/astralis.png"
+    },
+    {
+      "id": "aurora",
+      "names": [
+        "aurora"
+      ],
+      "color": "#22a06b",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/aurora.png"
+    },
+    {
+      "id": "b8",
+      "names": [
+        "b8"
+      ],
+      "color": "#f59e0b",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/b8.png"
+    },
+    {
+      "id": "falcons",
+      "names": [
+        "falcons",
+        "team falcons"
+      ],
+      "color": "#8b5cf6",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/falcons.png"
+    },
+    {
+      "id": "faze",
+      "names": [
+        "faze",
+        "faze clan"
+      ],
+      "color": "#06b6d4",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/faze.png"
+    },
+    {
+      "id": "furia",
+      "names": [
+        "furia"
+      ],
+      "color": "#ef4444",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/furia.png"
+    },
+    {
+      "id": "fut",
+      "names": [
+        "fut",
+        "fut esports"
+      ],
+      "color": "#10b981",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/fut.png"
+    },
+    {
+      "id": "g2",
+      "names": [
+        "g2",
+        "g2 esports"
+      ],
+      "color": "#f97316",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/g2.png"
+    },
+    {
+      "id": "gg",
+      "names": [
+        "gg",
+        "gamerlegion"
+      ],
+      "color": "#6366f1",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/gg.png"
+    },
+    {
+      "id": "heroic",
+      "names": [
+        "heroic"
+      ],
+      "color": "#84cc16",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/heroic.png"
+    },
+    {
+      "id": "legacy",
+      "names": [
+        "legacy"
+      ],
+      "color": "#ec4899",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/legacy.png"
+    },
+    {
+      "id": "liquid",
+      "names": [
+        "liquid",
+        "team liquid"
+      ],
+      "color": "#0ea5e9",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/liquid.png"
+    },
+    {
+      "id": "m80",
+      "names": [
+        "m80"
+      ],
+      "color": "#eab308",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/m80.png"
+    },
+    {
+      "id": "mongolz",
+      "names": [
+        "mongolz",
+        "the mongolz"
+      ],
+      "color": "#14b8a6",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/mongolz.png"
+    },
+    {
+      "id": "monte",
+      "names": [
+        "monte"
+      ],
+      "color": "#fb7185",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/monte.png"
+    },
+    {
+      "id": "mouz",
+      "names": [
+        "mouz"
+      ],
+      "color": "#64748b",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/mouz.png"
+    },
+    {
+      "id": "navi",
+      "names": [
+        "navi",
+        "natus vincere"
+      ],
+      "color": "#a855f7",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/navi.png"
+    },
+    {
+      "id": "nip",
+      "names": [
+        "nip",
+        "ninjas in pyjamas"
+      ],
+      "color": "#f43f5e",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/nip.png"
+    },
+    {
+      "id": "nrg",
+      "names": [
+        "nrg"
+      ],
+      "color": "#16a34a",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/nrg.png"
+    },
+    {
+      "id": "pain",
+      "names": [
+        "pain",
+        "pain gaming"
+      ],
+      "color": "#2563eb",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/pain.png"
+    },
+    {
+      "id": "pari",
+      "names": [
+        "pari",
+        "parivision"
+      ],
+      "color": "#dc2626",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/pari.png"
+    },
+    {
+      "id": "passion",
+      "names": [
+        "passion",
+        "passion ua"
+      ],
+      "color": "#7c3aed",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/passion.png"
+    },
+    {
+      "id": "semperfi",
+      "names": [
+        "semperfi"
+      ],
+      "color": "#0d9488",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/semperfi.png"
+    },
+    {
+      "id": "spirit",
+      "names": [
+        "spirit",
+        "team spirit"
+      ],
+      "color": "#ea580c",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/spirit.png"
+    },
+    {
+      "id": "vitality",
+      "names": [
+        "vitality",
+        "team vitality"
+      ],
+      "color": "#65a30d",
+      "logo": "https://cdn.jsdelivr.net/gh/cs2-maps/q@main/team-logos/vitality.png"
+    }
+  ],
+  "matchups": [
+    {
+      "team1": "NaVi",
+      "team2": "Aurora"
+    },
+    {
+      "team1": "The MongolZ",
+      "team2": "B8"
+    },
+    {
+      "team1": "MOUZ",
+      "team2": "Vitality"
+    },
+    {
+      "team1": "FURIA",
+      "team2": "Falcons"
+    }
+  ]
+}
